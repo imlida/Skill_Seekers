@@ -1,5 +1,5 @@
-# MCP Server dependencies
-mcp>=1.0.0
+# MCP Server dependencies (requires Python >=3.10)
+# mcp>=1.0.0; python_version>="3.10"
 
 # CLI tool dependencies (shared)
 requests>=2.31.0
